@@ -1,5 +1,5 @@
-# Albums
-Underground Hip Hop Albums I am Enjoying.
+# Playlist
+An Online Playlist that I will update consistenly of Albums that I am creently listening to and enjoying.
 
 The Idea of this Repo is just a place to put forth my thoughts on my favorite Underground Hip Hop Albums.
 I want to incorporate my knowledge of HTML, CSS, & Javascript so that I can tether my learning to something that I generally discussing.
