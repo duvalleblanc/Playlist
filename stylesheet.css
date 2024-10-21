@@ -10,7 +10,7 @@
 
   @media (min-width: 600px) {
     .playlist-grid  {
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: (3, 1fr);
     }
   }
   
