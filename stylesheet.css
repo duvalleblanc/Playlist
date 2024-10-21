@@ -8,6 +8,13 @@
     padding: 5rem;
   }
 
+  @media (min-width: 600px) {
+    .playlist-grid  {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  
+
 .example {
     align-items: center;
     border-radius: 16px;
