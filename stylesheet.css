@@ -1,0 +1,26 @@
+
+.playlist-grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(3, 3fr);
+    max-height: 250px;
+    max-width: 800px;
+    padding: 5rem;
+  }
+
+.example {
+    align-items: center;
+    border-radius: 16px;
+    box-shadow: 0 0 15px hsla(0deg, 0%, 0%, 0.5);
+    color: #fff;
+    font-size: 3.25rem;
+    font-weight: 900;
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    text-shadow: 0 2px 3px hsla(0deg, 0%, 0%, 0.25);
+  }
+
+  .radial {
+    background-image: radial-gradient(#ff8a00, #e52e71);
+  }
