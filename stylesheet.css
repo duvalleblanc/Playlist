@@ -11,7 +11,7 @@
   @media (max-width: 600px) {
     .playlist-grid  {
       grid-template-rows: (1, 1fr);
-      
+      padding: 0rem;
     }
   }
   
