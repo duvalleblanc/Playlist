@@ -8,7 +8,7 @@
     padding: 5rem;
   }
 
-  @media (min-width: 600px) {
+  @media (max-width: 600px) {
     .playlist-grid  {
       grid-template-rows: (1, 1fr);
       
@@ -31,4 +31,5 @@
 
   .radial {
     background-image: radial-gradient(#ff8a00, #e52e71);
+    
   }
